@@ -333,8 +333,8 @@
 				<artifactId>maven-compiler-plugin</artifactId>
 				<version>${maven.compiler.plugin.version}</version>
 				<configuration>
-					<source>1.8</source>
-					<target>1.8</target>
+					<source>17</source>
+					<target>17</target>
 					<!-- <forceJavacCompilerUse>true</forceJavacCompilerUse> <verbose>true</verbose> <fork>true</fork> -->
 					<forceJavacCompilerUse>true</forceJavacCompilerUse>
 					<maxmem>1024m</maxmem>
