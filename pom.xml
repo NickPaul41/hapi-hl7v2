@@ -669,7 +669,7 @@
 		<maven.javadoc.plugin.version>3.2.0</maven.javadoc.plugin.version>
 		<maven.jxr.plugin.version>3.0.0</maven.jxr.plugin.version>
 		<maven.license.plugin.version>2.0.0</maven.license.plugin.version>
-		<maven.plugin.plugin.version>3.6.0</maven.plugin.plugin.version>
+		<maven.plugin.plugin.version>3.8.6</maven.plugin.plugin.version>
 		<maven.project.info.plugin.version>3.4.0</maven.project.info.plugin.version>
 		<maven.resources.plugin.version>3.1.0</maven.resources.plugin.version>
 		<maven.site.plugin.version>3.9.0</maven.site.plugin.version>
