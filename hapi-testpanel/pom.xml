@@ -213,9 +213,9 @@
 				</configuration>
 			</plugin>
 			<plugin>
-				<groupId>de.jflex.maven.plugin</groupId>
-				<artifactId>maven-jflex-plugin</artifactId>
-				<!--version>0.2</version -->
+        <groupId>de.jflex</groupId>
+        <artifactId>jflex-maven-plugin</artifactId>
+				<version>1.8.2</version>
 				<executions>
 					<execution>
 						<goals>
