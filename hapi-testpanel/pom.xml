@@ -51,12 +51,12 @@
 		<dependency>
 			<groupId>org.netbeans.api</groupId>
 			<artifactId>org-netbeans-swing-outline</artifactId>
-			<version>RELEASE73</version>
+			<version>RELEASE140</version>
 		</dependency>
 		<dependency>
 			<groupId>org.netbeans.api</groupId>
 			<artifactId>org-netbeans-swing-outline</artifactId>
-			<version>RELEASE73</version>
+			<version>RELEASE140</version>
 			<classifier>sources</classifier>
 			<scope>provided</scope>
 		</dependency>
