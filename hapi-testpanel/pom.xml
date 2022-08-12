@@ -61,11 +61,13 @@
 			<scope>provided</scope>
 		</dependency>
 		<!-- We're using a customized version of JSyntaxPane. See http://code.google.com/p/jsyntaxpane/issues/detail?id=180 -->
-		<dependency>
+		<!-- cannot find this dependency
+    <dependency>
 			<artifactId>jsyntaxpane</artifactId>
 			<groupId>jsyntaxpane</groupId>
 			<version>0.9.6-hapi2</version>
 		</dependency>
+		-->
 		<dependency>
 			<groupId>commons-lang</groupId>
 			<artifactId>commons-lang</artifactId>
